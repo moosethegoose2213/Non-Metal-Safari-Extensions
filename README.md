@@ -1,5 +1,7 @@
 # Non-Metal-Safari-Extensions
-A very simple utility to work around the inability to enable or disable Safari Extensions on non-Metal Macs.
+
+## THIS ISSUE HAS BEEN FIXED. THIS UTILITY IS NO LONGER NEEDED ON BIG SUR OR NEWER!
+A very simple (outdated) utility to work around the inability to enable or disable Safari Extensions on non-Metal Macs.
 
 ![Screen Shot 2021-07-15 at 1 58 50 AM](https://user-images.githubusercontent.com/72932987/125743652-3ebbed26-ea11-4557-9e23-9a73b9a6448d.png)
 
